@@ -1,0 +1,29 @@
+h1 {
+    font-size: 5em;
+    font-family: 'Open Sans', sans-serif;
+}
+
+h2 {
+    font-size: 3.8em;
+    font-family: 'Open Sans', sans-serif;
+}
+
+p, li {
+    line-height: 1.5;
+    font-size: 1.6rem;
+    font-family: 'Merriweather', serif;
+}
+
+a {
+    color: #ff0000;
+}
+
+a:hover, a:visited, a:focus {
+    color: #a60000;
+    text-decoration: none;
+}
+
+a:active {
+    color: #000000;
+    background-color: #a60000;
+}
